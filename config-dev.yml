@@ -1,6 +1,3 @@
 config:
-<<<<<<< HEAD
     info:"Springcloud-config,version=1"
-=======
-    info:"Springcloud-config,version=3"
->>>>>>> 8f11d541f40944b228798db04483e3e325d17f15
+
